@@ -22,7 +22,7 @@ WIDTH = 48
 HEIGHT = 48
 x=None
 y=None
-labels = ['Angry', 'Disgust', 'Fear', 'Happy', 'Sad', 'Surprise', 'Neutral']
+labels = ['Raiva', 'Aversão', 'Medo', 'Feliz', 'Triste', 'Surpreso', 'Neutro']
 
 #loading image
 full_size_image = cv2.imread("test.jpg")
